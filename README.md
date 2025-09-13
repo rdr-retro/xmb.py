@@ -1,7 +1,7 @@
 # xmb.py
 
 **XMBMenu** es un sistema de menú inspirado en la interfaz XMB de PlayStation, implementado en Python usando **Pygame**. Está diseñado para manejar múltiples categorías, submenús, archivos y reproducción de música con visualización dinámica, con soporte completo de animaciones y layout adaptable a cualquier resolución.
-<img width="1277" height="718" alt="Captura de pantalla 2025-09-13 a las 20 51 33" src="https://github.com/user-attachments/assets/84c9d921-0861-4798-bbcf-5f6d2d2bc04e" />
+<img width="800" height="500" alt="Captura de pantalla 2025-09-13 a las 20 51 33" src="https://github.com/user-attachments/assets/84c9d921-0861-4798-bbcf-5f6d2d2bc04e" />
 
 ---
 
