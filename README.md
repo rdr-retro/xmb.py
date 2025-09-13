@@ -42,4 +42,7 @@
   - `theme` (`open_theme_settings`)
 
 ---
+<img width="1277" height="718" alt="Captura de pantalla 2025-09-13 a las 20 51 33" src="https://github.com/user-attachments/assets/d2ac1fcc-4b41-454b-9f7f-d76920966ba2" />
 
+<img width="1277" height="717" alt="Captura de pantalla 2025-09-13 a las 20 54 38" src="https://github.com/user-attachments/assets/c166a340-6b1b-4ca8-b032-3bc84e37eb25" />
+<img width="1277" height="717" alt="Captura de pantalla 2025-09-13 a las 20 54 48" src="https://github.com/user-attachments/assets/4fd852a9-16bb-47c9-a1d4-6a17760a1524" />
