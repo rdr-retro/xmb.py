@@ -29,7 +29,7 @@
 
 ## Requisitos
 
-- Python 3.12.4+
+- Python 3.12.4
 - Pygame 2.0+
 - Módulos auxiliares incluidos:
   - `utils` (función `lerp`)
@@ -46,3 +46,19 @@
 
 <img width="1277" height="717" alt="Captura de pantalla 2025-09-13 a las 20 54 38" src="https://github.com/user-attachments/assets/c166a340-6b1b-4ca8-b032-3bc84e37eb25" />
 <img width="1277" height="717" alt="Captura de pantalla 2025-09-13 a las 20 54 48" src="https://github.com/user-attachments/assets/4fd852a9-16bb-47c9-a1d4-6a17760a1524" />
+
+# Install
+- descargar python 3.12.4 Añadir al Path actualizar pip e instalar las siguientes librerias:
+# pygame
+# numpy
+# pillow
+# pydub
+# mutagen
+- opccional visual studio code
+- 
+- Descargar ffmpeg: Ve a la página oficial: https://ffmpeg.org/download.html
+- Descarga una versión compilada (por ejemplo, desde gyan.dev o BtbN).
+- Descomprime el archivo .zip en alguna carpeta (ejemplo: C:\ffmpeg).
+- Añade la ruta C:\ffmpeg\bin a las variables de entorno (PATH): Abre Panel de Control → Sistema → Configuración avanzada del sistema. En Variables de entorno, edita Path y agrega la ruta.
+- renicia windows despuws de instalar ffmpeg
+  
